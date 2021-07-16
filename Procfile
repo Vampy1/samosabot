@@ -1,1 +1,1 @@
-worker: SAMOSA.PY
+worker:SAMOSA.PY
