@@ -1,1 +1,1 @@
-worker: Final_Main.py
+worker: SAMOSA.PY
